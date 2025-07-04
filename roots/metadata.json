@@ -1,0 +1,7 @@
+{
+  "name": "Roots",
+  "description": "A trauma-informed, emotionally intelligent app that helps people transform conflict into connection through guided self-reflection, playful rituals, and shared repair.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
